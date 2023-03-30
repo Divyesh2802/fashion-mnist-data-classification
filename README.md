@@ -1,1 +1,1 @@
-# fashion-mnist-classification
+# fashion-mnist-data-classification
